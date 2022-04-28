@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pg-react-workshop/static/css/main.456efa61.css",
-    "main.js": "/pg-react-workshop/static/js/main.1611d87b.js",
+    "main.css": "/pg-react-workshop/static/css/main.5ebdb570.css",
+    "main.js": "/pg-react-workshop/static/js/main.7c8a4ba1.js",
     "static/js/787.d366e83f.chunk.js": "/pg-react-workshop/static/js/787.d366e83f.chunk.js",
     "index.html": "/pg-react-workshop/index.html",
-    "main.456efa61.css.map": "/pg-react-workshop/static/css/main.456efa61.css.map",
-    "main.1611d87b.js.map": "/pg-react-workshop/static/js/main.1611d87b.js.map",
+    "main.5ebdb570.css.map": "/pg-react-workshop/static/css/main.5ebdb570.css.map",
+    "main.7c8a4ba1.js.map": "/pg-react-workshop/static/js/main.7c8a4ba1.js.map",
     "787.d366e83f.chunk.js.map": "/pg-react-workshop/static/js/787.d366e83f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.456efa61.css",
-    "static/js/main.1611d87b.js"
+    "static/css/main.5ebdb570.css",
+    "static/js/main.7c8a4ba1.js"
   ]
 }
