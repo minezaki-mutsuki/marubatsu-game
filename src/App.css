@@ -25,6 +25,7 @@
   gap: 1px;
   padding: 20px;
 }
+
 .tile {
   --grid-size: 100px;
   outline: 1px solid black;
@@ -39,6 +40,15 @@
 }
 
 .tile:hover {
-  outline: 1px solid aqua;
+  outline: 2px solid blue;
   z-index: 2;
+}
+
+.tile.filled:hover {
+  outline: 2px solid red;
+  z-index: 2;
+}
+
+.reset:hover{
+  background-color:deepskyblue;
 }
