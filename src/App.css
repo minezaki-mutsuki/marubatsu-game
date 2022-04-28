@@ -19,9 +19,12 @@
 }
 
 #board {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(3, 100px);
+  gap: 1px;
   padding: 20px;
 }
-
 .tile {
   --grid-size: 100px;
   outline: 1px solid black;
@@ -36,6 +39,6 @@
 }
 
 .tile:hover {
-  outline: 2px solid blue;
+  outline: 1px solid aqua;
   z-index: 2;
 }
