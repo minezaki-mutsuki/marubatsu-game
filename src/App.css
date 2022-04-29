@@ -19,7 +19,11 @@
 }
 
 #board {
+  justify-content: center;
   padding: 20px;
+  display: grid;
+  gap: 1px;
+  grid-template-columns: repeat(3,100px);
 }
 
 .tile {
@@ -38,4 +42,8 @@
 .tile:hover {
   outline: 2px solid blue;
   z-index: 2;
+}
+
+.filled {
+  outline: 2px solid red;
 }
